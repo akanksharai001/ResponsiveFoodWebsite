@@ -1,0 +1,31 @@
+#home{
+    height: 380px;
+
+}
+#home::before{
+   height: 480px;
+    
+}
+#home p{
+    font-size: 12px;
+}
+
+
+#navbar{
+    flex-direction: column;
+}
+
+#services{
+    flex-direction: column;
+
+}
+#services .box{
+
+}
+body{
+    background-color: rgb(206, 149, 139);
+}
+#clients{
+    overflow: hidden;
+
+}
