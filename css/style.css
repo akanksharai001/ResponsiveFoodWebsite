@@ -7,7 +7,7 @@
     display:flex ;
     align-items: center;
     margin: 0px 0px;
-    position: relative;
+    position: sticky;
     top: 0px;
   
 }
@@ -37,7 +37,7 @@
 #navbar ul li a{
     color: rgb(43, 9, 9);
     display: block;
-    padding: 3px 20px;
+    padding: 2px 18px;
     border-radius: 22px;
     text-decoration: none;
 
