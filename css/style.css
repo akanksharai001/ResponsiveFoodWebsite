@@ -36,7 +36,7 @@
     font-weight: bold;
 }
 #navbar ul li a{
-    color: black;
+    color: rgb(2, 0, 0);
     display: block;
     padding: 2px 18px;
     border-radius: 22px;
