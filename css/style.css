@@ -20,22 +20,23 @@
 }
 #navbar::before{
     content: "";
-    background-color: rgb(139, 136, 153);
+    background-color:rgb(82, 15, 4);
     position: absolute;
     top: 0px;
     left: 0px;
     height: 100%;
     width: 100%;
     z-index: -2;
-    opacity: .20;
+    opacity: .50;
 }
+
 #navbar ul li{
     list-style: none;
     font-size: 22px;
     font-weight: bold;
 }
 #navbar ul li a{
-    color: rgb(43, 9, 9);
+    color: black;
     display: block;
     padding: 2px 18px;
     border-radius: 22px;
@@ -95,7 +96,7 @@
  padding: 6px 20px;
  border: 2px solid black;
  border-radius: 10px;
- background-color: rgb(99, 31, 19);
+ background-color: rgb(20, 12, 10);
  color: white;
  margin: 20px ;
 
