@@ -15,11 +15,12 @@
 #home{
     height: 300px;
     padding: 2px 52px;
+    position: relative;
    
    
 }
 #home::before{
-    height: 430px;
+    position: absolute;
    
    
 }
